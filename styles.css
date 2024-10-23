@@ -1284,7 +1284,10 @@ h4 {
   }
 }
 
-
+.author h4 {
+  text-align: center;
+  color: #bbb;
+}
 
 .read-more {
   margin-top: 20px;
@@ -1298,6 +1301,7 @@ h4 {
   border-radius: 5px; /* Rounded corners */
   cursor: pointer; /* Pointer cursor on hover */
 }
+
 
 
 
